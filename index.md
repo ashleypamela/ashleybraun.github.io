@@ -3,14 +3,15 @@
 <body>
 
 <h1 style="background-color:Orange;">UMBC </h1> 
-<table style="width:100%">
-  <tr>
-    <th>Home</th>
-    <th>Undergraduate Program (IS)</th>
-    <th>Contact Us</th>
-  </tr>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
   
-</table>
+  <a class="active" href="#undergraduateprogram">Undergraduate Program (IS)</a>
+  
+  <a class="active" href="#contact">Contact</a>
+  
+</div>
+
 
 <hr>
 
