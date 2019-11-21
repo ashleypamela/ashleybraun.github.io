@@ -28,4 +28,7 @@
 </body>
 </html>
 
-<h2>Footer </h2>
+
+<footer>
+  <p>Posted by: Ashley Braun</p>
+</footer>
