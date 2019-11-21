@@ -9,11 +9,7 @@
   <a class="active" href="#undergraduateprogram">Undergraduate Program (IS)</a>
   
   <a class="active" href="#contact">Contact</a>
-  .topnav {
-  background-color: #333;
-  overflow: hidden;
-}
-  
+ 
 </div>
 
 
